@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Онлайнер-Объявления</string>
+    <string name="update">Обновить</string>
+    <plurals name="toast_plurals">
+        <item quantity="one">
+            %1$s объявление найдено
+        </item>
+        <item quantity="other">
+            %1$s объявлений найдено
+        </item>
+    </plurals>
+</resources>
